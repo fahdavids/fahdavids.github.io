@@ -1423,3 +1423,7 @@ li.left-footer-content.mobile
 .phot{
     float: right;
 }
+
+.tagline{
+    color: rgb(255,128,246);
+}
