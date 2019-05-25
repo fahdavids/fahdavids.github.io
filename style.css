@@ -1,3 +1,9 @@
+@font-face {
+font-family: "Trajan Pro Regular";
+src: ("fonts/Trajan Pro Regular.tff");
+}
+
+
 html
 {
     overflow: hidden;
@@ -1398,11 +1404,15 @@ li.left-footer-content.mobile
 }
 
 .header-menu{
-    font-family: Trajan Pro;
+    font-family: 'Trajan Pro Regular';
+    font-weight:normal;
+    font-style:normal;
 }
 
 .page-desc{
-  font-family: Trajan Pro;  
+    font-family: 'Trajan Pro Regular';
+    font-weight:normal;
+    font-style:normal;
 }
 
 .check{
